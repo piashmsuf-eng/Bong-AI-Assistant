@@ -1,0 +1,122 @@
+[
+  {
+    "id": "open_whatsapp",
+    "keywords": ["open whatsapp", "whatsapp khulo", "whatsapp"],
+    "action": "open_app",
+    "package": "com.whatsapp"
+  },
+  {
+    "id": "open_youtube",
+    "keywords": ["open youtube", "youtube chalao", "youtube"],
+    "action": "open_app",
+    "package": "com.google.android.youtube"
+  },
+  {
+    "id": "open_bkash",
+    "keywords": ["open bkash", "bkash khulo", "bkash"],
+    "action": "open_app",
+    "package": "com.bKash.customerapp"
+  },
+  {
+    "id": "open_nagad",
+    "keywords": ["open nagad", "nagad khulo", "nagad"],
+    "action": "open_app",
+    "package": "com.konasl.nagad"
+  },
+  {
+    "id": "open_facebook",
+    "keywords": ["open facebook", "fb", "facebook"],
+    "action": "open_app",
+    "package": "com.facebook.katana"
+  },
+  {
+    "id": "open_messenger",
+    "keywords": ["open messenger", "messenger"],
+    "action": "open_app",
+    "package": "com.facebook.orca"
+  },
+  {
+    "id": "open_chrome",
+    "keywords": ["open chrome", "browser"],
+    "action": "open_app",
+    "package": "com.android.chrome"
+  },
+  {
+    "id": "open_camera",
+    "keywords": ["open camera", "camera", "chobi tolo"],
+    "action": "open_app",
+    "package": "com.android.camera"
+  },
+  {
+    "id": "open_settings",
+    "keywords": ["open settings", "settings"],
+    "action": "open_app",
+    "package": "com.android.settings"
+  },
+  {
+    "id": "open_gallery",
+    "keywords": ["open gallery", "photos", "gallery"],
+    "action": "open_app",
+    "package": "com.google.android.apps.photos"
+  },
+  {
+    "id": "open_maps",
+    "keywords": ["open maps", "google maps", "map"],
+    "action": "open_app",
+    "package": "com.google.android.apps.maps"
+  },
+  {
+    "id": "open_gmail",
+    "keywords": ["open gmail", "mail", "email"],
+    "action": "open_app",
+    "package": "com.google.android.gm"
+  },
+  {
+    "id": "open_spotify",
+    "keywords": ["open spotify", "music", "spotify"],
+    "action": "open_app",
+    "package": "com.spotify.music"
+  },
+  {
+    "id": "open_tiktok",
+    "keywords": ["open tiktok", "tiktok"],
+    "action": "open_app",
+    "package": "com.zhiliaoapp.musically"
+  },
+  {
+    "id": "open_telegram",
+    "keywords": ["open telegram", "telegram"],
+    "action": "open_app",
+    "package": "org.telegram.messenger"
+  },
+  {
+    "id": "open_zoom",
+    "keywords": ["open zoom", "zoom"],
+    "action": "open_app",
+    "package": "us.zoom.videomeetings"
+  },
+  {
+    "id": "open_daraz",
+    "keywords": ["open daraz", "daraz"],
+    "action": "open_app",
+    "package": "com.daraz.android"
+  },
+  {
+    "id": "open_pathao",
+    "keywords": ["open pathao", "pathao"],
+    "action": "open_app",
+    "package": "com.pathao.user"
+  },
+  {
+    "id": "open_foodpanda",
+    "keywords": ["open foodpanda", "foodpanda"],
+    "action": "open_app",
+    "package": "com.global.foodpanda.android"
+  },
+  {
+    "id": "open_uber",
+    "keywords": ["open uber", "uber"],
+    "action": "open_app",
+    "package": "com.ubercab"
+  }
+]
